@@ -1,7 +1,5 @@
-[!MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile-readme&psig=AOvVaw2ednFHXOfPdr9LWHtaXqCF&ust=1746815080197000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDSqLO_lI0DFQAAAAAdAAAAABAP)
 <h1 align="center">Hi 👋, I'm HIRAK SABUI</h1>
 <h3 align="center">A passionate UI/UX Web Graphics Designer with keen interest in Data Analytics</h3>
-<img align="right" alt="Coding" width="400" src="[https://kr.pinterest.com/pin/476466835594851073/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw2ednFHXOfPdr9LWHtaXqCF&ust=1746815080197000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDSqLO_lI0DFQAAAAAdAAAAABAz)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiraksabui&label=Profile%20views&color=0e75b6&style=flat" alt="hiraksabui" /> </p>
 
